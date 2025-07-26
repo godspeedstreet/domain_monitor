@@ -1,0 +1,8 @@
+# Пример файла с доменами для мониторинга
+# Добавьте по одному домену на строку
+# Строки, начинающиеся с #, игнорируются
+
+example.com
+malicious-site.com
+suspicious-domain.org
+test-phishing.com 
