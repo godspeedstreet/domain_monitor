@@ -23,7 +23,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/godspeedstreet/domain_monitor.git
-cd domain-monitor
+cd domain_monitor
 ```
 
 2. Установите зависимости:
