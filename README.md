@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/domain_monitor.git
+git clone https://github.com/godspeedstreet/domain_monitor.git
 cd domain-monitor
 ```
 
